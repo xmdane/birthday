@@ -5,16 +5,14 @@ var config = {
     texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "心爱的SISI同学",  // 同上...
-        "今天是你的生日",
-        "恭喜你",
+        "今天是你的生日，恭喜你",
         "和银河系第三旋臂外缘的",
-        "一个蓝色星球上的",
-        "所有碳基生物",
+        "一个蓝色星球上的所有碳基生物",
         "一起完成了该行星",
         "在所有恒星系内的",
         "又一次完整的公转",
-        "OH YEAH~~",
-        "---来自另一个碳基生物D的贺电",
+        "生日快乐 OH YEAH~~",
+        "来自另一个碳基生物D的贺电",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -27,7 +25,7 @@ var config = {
      */
     imgs: {
         "心爱的SISI同学": "./imgs/sisi2020.jpg",
-        "---来自另一个碳基生物D的贺电": "./imgs/D.jpg",
+        "来自另一个碳基生物D的贺电": "./imgs/D.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -36,9 +34,9 @@ var config = {
         play: "来点音乐",
         bannar_coming: "来个点缀",
         balloons_flying: "少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "晨晨sisi 生日快乐~~",
-        story: "A MESSAGE FOR YOU",
+        cake_fadein: "提拉米苏？",
+        light_candle: "点个蜡烛？",
+        wish_message: "sisi同学生日快乐~~",
+        story: "A MESSAGE FOR YOU-FROM D",
     }
 };
