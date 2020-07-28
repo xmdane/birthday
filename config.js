@@ -34,11 +34,11 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字  
     desc: {
         turn_on: "点我开始",
-        play: "来点音乐",
+        play: "来点音乐吧",
         bannar_coming: "装饰一下",
-        balloons_flying: "有点单调？",
-        cake_fadein: "提拉米苏？",
-        light_candle: "点个蜡烛？",
+        balloons_flying: "似乎有点单调？",
+        cake_fadein: "提拉米苏呢？",
+        light_candle: "点个蜡烛",
         wish_message: "sisi同学生日快乐~~",
         story: "您有新的消息，请注意查收。",
     }
