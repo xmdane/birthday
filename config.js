@@ -26,18 +26,19 @@ var config = {
      */
     imgs: {
         "心爱的SISI同学": "./imgs/sisi2020.jpg",
+        "第18次完整的公转": "./imgs/earth.gif",
         "来自另一个碳基生物D的贺电": "./imgs/D.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
-    // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
+    // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字  
     desc: {
         turn_on: "点我开始",
         play: "来点音乐",
-        bannar_coming: "来个点缀",
-        balloons_flying: "少点东西",
+        bannar_coming: "装饰一下",
+        balloons_flying: "有点单调？",
         cake_fadein: "提拉米苏？",
         light_candle: "点个蜡烛？",
         wish_message: "sisi同学生日快乐~~",
-        story: "A MESSAGE FOR YOU-FROM D",
+        story: "您有新的消息，请注意查收。",
     }
 };
